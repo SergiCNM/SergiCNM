@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergi Sànchez</h1>
 <h3 align="center">A self-taught programmer with a great desire to learn</h3>
 
-- 🔭 I’m currently working on [controlling instruments in a characterization laboratoy with Python](caracterizar)
+- 🔭 I’m currently working on controlling instruments in a characterization laboratoy with Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
