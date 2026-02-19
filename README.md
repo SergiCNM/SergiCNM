@@ -10,7 +10,7 @@
 <p>&nbsp;</p>
 <h1 align="left">🔭 Current Focus</h1>
 
-<p align="left">I’m currently working on **automation and digitalization in the wafer characterization laboratory**.<br /> Key projects include:</p>
+<p align="left">I’m currently working on <b>automation and digitalization in the wafer characterization laboratory</b>.<br /> Key projects include:</p>
 <p>&nbsp;</p>
 
 🖥️ <a href="https://github.com/SergiCNM/caracterizar" target="_blank">Caracterizar – Lab Instrument Control</a>
