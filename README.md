@@ -37,7 +37,7 @@
   
     * Companies / Process Areas / Laboratories / Equipments / Users managements
 
-    * Reservations of instruments
+    * Equipment reservations
     
     * Services management
 
