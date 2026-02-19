@@ -66,3 +66,5 @@
    * <a href="https://www.linkedin.com/in/sergi-sanchez-romero/" target="_blank">LinkedIn</a>
 
    * <a href="https://github.com/SergiCNM" target="_blank">GitHub</a>
+
+   * <a href="mailto: sergi.sanchez@imb-cnm.csic.es" target="_blank">Email</a>
