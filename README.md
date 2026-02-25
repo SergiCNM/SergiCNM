@@ -10,63 +10,67 @@
 <p>&nbsp;</p>
 <h1 align="left">🔭 Current Focus</h1>
 
-<p align="left">I’m currently working on <b>automation and digitalization in the wafer characterization laboratory</b>.<br /> Key projects include:</p>
+<p align="left">
+I’m currently focused on <b>automation, digitalization and intelligent systems for wafer characterization laboratories and research infrastructures</b>.
+</p>
 <p>&nbsp;</p>
+
+<h2 align="left">🧪 Laboratory Automation</h2>
 
 🖥️ <a href="https://github.com/SergiCNM/caracterizar" target="_blank">Caracterizar – Lab Instrument Control</a>
 
 * Python-based software to control instruments and probe stations.
-
 * Automates measurement routines (CV, CW, I-V) with optional logging and image capture.
-
-* Improves consistency and reduces manual intervention in lab measurements.
-
----
-
-💾 <a href="https://github.com/SergiCNM/lab-backup-system" target="_blank">Centralized Backup System</a>
-
-* Automatic backup of all lab instruments and experiment data to a central server.
-
-* Ensures data integrity and simplifies recovery in case of failures.
+* Improves consistency, traceability and reduces manual intervention in lab measurements.
 
 ---
 
-✉️ <a href="https://github.com/SergiCNM/email-signature-generator" target="_blank">Email Signature Generator</a>
-
-* Web-based tool to generate standardized professional email signatures.
-
-* Ensures consistent institutional branding across the center.
-
-* Automatically formats contact details, logos and layout for ready-to-use signatures.
-
-* Reduces manual formatting errors and improves corporate identity consistency.
-
----
+<h2 align="left">🌐 Digital Infrastructure & Lab Management</h2>
 
 🌐 Lab Management Web App
 
 * Full-featured web application for managing:
   
-    * Companies / Process Areas / Laboratories / Equipments / Users managements
-
-    * Equipment reservations
+  * Companies / Process Areas / Laboratories / Equipments / Users
+  
+  * Equipment reservations
     
-    * Services management
+  * Services management
 
-    * Maintenance scheduling
+  * Maintenance scheduling
 
-    * Incident reporting
+  * Incident reporting
 
-    * Documentation centralization
+  * Documentation centralization
     
-    * Stock management
-    
---- 
+  * Stock management
+
+💾 <a href="https://github.com/SergiCNM/lab-backup-system" target="_blank">Centralized Backup System</a>
+
+* Automatic backup of lab instruments and experiment data to a central server.
+* Ensures data integrity and simplifies recovery in case of failures.
+* Designed for research lab environments with critical data workflows.
+
+---
+
+<h2 align="left">🛠️ Internal Productivity Tools</h2>
+
+✉️ <a href="https://github.com/SergiCNM/email-signature-generator" target="_blank">Email Signature Generator</a>
+
+* Internal web tool for centralized creation of institutional email signatures.
+* Standardizes visual identity across departments and laboratories.
+* Automatically formats contact details, logos and layout for ready-to-use signatures.
+* Reduces manual formatting errors and improves corporate branding consistency.
+
+---
+
+<h2 align="left">🤖 AI & Intelligent Systems</h2>
 
 🤖 Intelligent Lab Bot
 
-  * AI-powered assistant to search and manage lab documentation.
-  * Provides interactive answers to questions about procedures, instrument use, and data management.
+* AI-powered assistant to search and manage lab documentation.
+* Provides interactive answers about procedures, instrument usage and data management.
+* Designed to support researchers and cleanroom users with contextual knowledge access.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
