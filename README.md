@@ -31,6 +31,18 @@
 
 ---
 
+✉️ <a href="https://github.com/SergiCNM/email-signature-generator" target="_blank">Email Signature Generator</a>
+
+* Web-based tool to generate standardized professional email signatures.
+
+* Ensures consistent institutional branding across the center.
+
+* Automatically formats contact details, logos and layout for ready-to-use signatures.
+
+* Reduces manual formatting errors and improves corporate identity consistency.
+
+---
+
 🌐 Lab Management Web App
 
 * Full-featured web application for managing:
